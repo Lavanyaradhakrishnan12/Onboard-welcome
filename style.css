@@ -124,15 +124,13 @@ span:hover {
 }
 @media(max-width:520px){
     .container {
-        flex-direction: column;
-        height: auto;
-        align-items: center;
-        justify-content: center;
+    
+        height: 100vh;
+     
        
     }
     .content {
         width: 95%;
-      
     }
     .box-details {
         width: 100%;
