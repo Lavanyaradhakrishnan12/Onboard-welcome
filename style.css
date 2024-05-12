@@ -126,6 +126,14 @@ span:hover {
     .container {
         flex-direction: column;
         height: auto;
+       
+    }
+    .content {
+        width: 95%;
         align-items: center;
+        justify-content: center;
+    }
+    .box-details {
+        width: 100%;
     }
 }
