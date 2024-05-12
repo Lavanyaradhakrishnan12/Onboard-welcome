@@ -124,7 +124,7 @@ span:hover {
 }
 @media(max-width:520px){
     .container {
-        height: 100vh;
+        height: 100%;
 
     }
     .content {
