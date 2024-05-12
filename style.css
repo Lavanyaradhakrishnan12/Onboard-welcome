@@ -126,12 +126,13 @@ span:hover {
     .container {
         flex-direction: column;
         height: auto;
+        align-items: center;
+        justify-content: center;
        
     }
     .content {
         width: 95%;
-        align-items: center;
-        justify-content: center;
+      
     }
     .box-details {
         width: 100%;
