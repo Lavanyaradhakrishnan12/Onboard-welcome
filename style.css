@@ -129,9 +129,10 @@ span:hover {
     .content {
       
         width: 90%;
-        margin: auto 0;
+       
     }
     .box-details {
         width: 100%;
+       
     }
 }
