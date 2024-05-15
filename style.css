@@ -123,11 +123,14 @@ span:hover {
 }
 @media(max-width:520px){
     .container {      
-        height:100%;
-        flex-direction: column;
+        height:100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow:auto;
     }
     .content {
-      
+        margin: 10px 0;
         width: 90%;
        
     }
